@@ -10,7 +10,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author raj trivedi
+ * @author jay trivedi
  */
 public class stockdetails extends javax.swing.JFrame {
 
