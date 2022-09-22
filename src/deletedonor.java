@@ -9,7 +9,7 @@ import javax.swing.JTable;
 
 /**
  *
- * @author raj trivedi
+ * @author jay trivedi
  */
 public class deletedonor extends javax.swing.JFrame {
 
